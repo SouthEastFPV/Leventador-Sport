@@ -1,12 +1,10 @@
 # Leventador Sport
 Open Source FPV Drone Box Racing Frame project initiated by SouthEastFPV - Rick Caudle AKA - SSBelmont
-[<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/photos/wallpaper/source_one_small.png" width="800">](https://github.com/tbs-trappy/source_one/blob/master/photos/wallpaper/source_one.png)
+[<img src="<img src="https://github.com/SouthEastFPV/Leventador-Sport/blob/main/Images/LS_V1.png?raw=true" width="800">" width="800">]
 
 # About Leventador Sport
 ## The idea
 The Leventador Sport is the first super durable Box, open source collaborative race frame project. It empowers the community to integrate best practices and current trends into a continuously manufactured FPV Box Race frame. The durability, documentation and capibility of this frame puts it on track to be one of the best Box racing frames for newcomers and professionals alike.  This Frame was inspired by Mark Grohe (2DogRC) and Roger Bess who I have been racing with for years.  Mark and Roger liked the Leventador Pro (a lighter version) but wanted something super durable.   So I created this version specifically for them and it has proven to be insanely durable, more durable than any race frame on the market.  It suevied 12hrs of Mayhem without one broken carbon fiber part and I am not aware of any frame that be able to do that.  It's not the lightest coming in at 100g, as compared to the 74gr Pro version, but if you are looking for frame that flies on rails and is near industructable, this is one for you.
-
-<img src="https://github.com/SouthEastFPV/Leventador-Sport/blob/main/Images/LS_V1.png?raw=true" width="800">
 
 ## Frame specifications
 * Wheelbase 5": 197mm
