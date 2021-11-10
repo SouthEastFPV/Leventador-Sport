@@ -1,6 +1,6 @@
 # Leventador Sport
 Open Source FPV Drone Box Racing Frame project initiated by SouthEastFPV - Rick Caudle AKA - SSBelmont
-[<img src="https://github.com/SouthEastFPV/Leventador-Sport/blob/main/Images/LS_V1.png?raw=true" width="800">"]
+[<img src="https://github.com/SouthEastFPV/Leventador-Sport/blob/main/Images/LS_V1.png?raw=true" width="800">]
 
 # About Leventador Sport
 ## The idea
