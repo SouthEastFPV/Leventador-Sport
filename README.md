@@ -27,9 +27,6 @@ The Leventador Sport is the first super durable Box, open source collaborative r
 * 4x M3x8 Button Head Bolts
 * 16x M3x14mm Socket Head Bolts (motor mounting)
 
-
-<img src="https://raw.githubusercontent.com/tbs-trappy/source_one/master/SourceOne_press_insert_nut.png" width="800">
-
 ## Project links
 * Project discussion: https://discord.gg/AsXFzmGM 
 * Project files: https://github.com/SouthEastFPV/Leventador-Sport 
