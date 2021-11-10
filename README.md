@@ -60,14 +60,10 @@ Please use the tag "leventador" when uploading files to thingiverse.com
 ### Leventador Sport v1
 * v1 Design complete/tested/vetted in 2021 MultiGP Season
 
-
-<img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_1.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_2.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_3.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_4.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_5.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_6.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_7.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_8.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_9.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_10.JPG" width="350"> <img src="https://github.com/tbs-trappy/source_one/blob/master/photos/source_one_v4_11.JPG" width="350">
-
 * initial release from SouthEast FPV
 
 ## Project license
 The frame files are released under GNU Public License (GPL) V3. More information here: https://www.gnu.org/licenses/gpl-3.0.en.html 
-
 
 ## Project naming requirements
 Leventador Sport is the name of the frame.  If you are thinking about manufacturing it, you are expected to prefix the name with a brand name in order to allow customers to distinguish the different manufacturers, e.g. “SOUTHEAST LEVENTADOR SPORT”. As a manufacturer you are also expected to denote the version number of the frame files that you have used as basis of the project, e.g. “SOUTHEAST LEVENTADOR V1”. 
