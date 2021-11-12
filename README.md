@@ -38,6 +38,9 @@ Please use the tag "leventador" when uploading files to thingiverse.com
 * [www.diatone.us](https://www.diatone.us/collections/leventadorx/products/leventadorx-sport-frame)
 * [www.southeastfpv.com](no longer being sold)
 
+## Carbon Fiber sources and CNC Services
+More Information here: https://github.com/SouthEastFPV/Leventador-Sport/blob/main/CF_CNCServices.md
+
 ## Compatibility
 
 | Part             |              v1|    
